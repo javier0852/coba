@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: Tugas
+- file: Tugas1
 - file: Tugas2
 
